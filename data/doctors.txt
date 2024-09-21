@@ -1,0 +1,4 @@
+Adrian;Pediatrician
+Andrei;Ginecologist
+Ion;Dentist
+Maria;Orthopedist

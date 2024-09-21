@@ -1,0 +1,9 @@
+Bianca;Liver failure;Dentist;Ion;2024-23-07
+Alice;Toothache;Dentist;Ion;2024-06-20
+Bob;Undiagnosed;;Unknown;2024-06-22
+Charlie;Broken arm;Orthopedist;Maria;2024-05-15
+David;Flu;Pediatrician;Adrian;2024-04-30
+Helen;Diabetes;Pediatrician;Adrian;2024-05-01
+Ivan;Broken leg;Pediatrician;Maria;2024-05-15
+John;Flu;Orthopedist;Adrian;2024-04-30
+Katie;Broken arm;Orthopedist;Ion;2024-05-15
